@@ -31,9 +31,16 @@ This project aims to generate various types of questions from given text or cont
 
 Here are some screenshots of the Movie Recommender System as per input:
 
-   <img src='MovieRecommender/Screenshot (352).png' >
-  <img src='MovieRecommender/Screenshot (353).png' >
-
+   <img src='Screenshot (427).png' >
+   <img src='Screenshot (421).png' >
+   <img src='Screenshot (422).png' >
+   <img src='Screenshot (423).png' >
+   <img src='Screenshot (424).png' >
+   <img src='Screenshot (425).png' >
+   <img src='Screenshot (426).png' >
+   <img src='Screenshot (430).png' >
+   <img src='Screenshot (431).png' >
+   
 ## Examples
 
 - **False Statement Generation:**
